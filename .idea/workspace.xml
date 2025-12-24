@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d8e00c-d224-402b-9727-48f0933ab22c" name="Changes" comment="update: 22-12-2025">
+    <list default="true" id="d0d8e00c-d224-402b-9727-48f0933ab22c" name="Changes" comment="update: 24-12-2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_lab001.py" afterDir="false" />
     </list>
@@ -53,6 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for test_Lab001.test_Lab001.executor": "Run",
     "Python tests.Python tests for test_Lab001.test_lab001.executor": "Run",
+    "Python tests.Python tests for test_lab001.test_firefox_browser.executor": "Run",
     "Python tests.Python tests for test_lab001.test_lab001.executor": "Run",
     "Python tests.Python tests for test_lab001.test_lab002.executor": "Run",
     "Python tests.Python tests for test_lab001.test_lab003.executor": "Run",
@@ -64,7 +65,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab001.test_lab003">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab001.test_firefox_browser">
     <configuration name="Python tests for test_lab001" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Practice22-12-2025" />
       <option name="ENV_FILES" value="" />
@@ -77,6 +78,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_lab001&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab001.test_firefox_browser" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Practice22-12-2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_lab001.test_firefox_browser&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -127,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab001.test_firefox_browser" />
         <item itemvalue="Python tests.Python tests for test_lab001.test_lab002" />
         <item itemvalue="Python tests.Python tests for test_lab001.test_lab001" />
         <item itemvalue="Python tests.Python tests for test_lab001" />
@@ -156,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766399294407</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update: 24-12-2025">
+      <option name="closed" value="true" />
+      <created>1766579411625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766579411625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +197,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update: 22-12-2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: 22-12-2025" />
+    <MESSAGE value="update: 24-12-2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: 24-12-2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0d8e00c-d224-402b-9727-48f0933ab22c" name="Changes" comment="update: 24-12-2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_lab001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/VivekChandraa/Practical-Assessment.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/VivekChandraa/PythonDecember2025.git&quot;,
     &quot;accountId&quot;: &quot;32fc89da-ad79-4631-94d1-086379ed1907&quot;
   }
 }</component>
@@ -48,24 +47,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for test_Lab001.test_Lab001.executor": "Run",
-    "Python tests.Python tests for test_Lab001.test_lab001.executor": "Run",
-    "Python tests.Python tests for test_lab001.test_firefox_browser.executor": "Run",
-    "Python tests.Python tests for test_lab001.test_lab001.executor": "Run",
-    "Python tests.Python tests for test_lab001.test_lab002.executor": "Run",
-    "Python tests.Python tests for test_lab001.test_lab003.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "PythonProject",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_Lab001.test_Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab001.test_lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_cartitem.test_filterproduct.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab001.test_firefox_browser.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab001.test_lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab001.test_lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab001.test_lab003.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab001.test_firefox_browser">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_cartitem.test_filterproduct">
+    <configuration name="Python tests for test_cartitem.test_filterproduct" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Practice22-12-2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_cartitem.test_filterproduct&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_lab001" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Practice22-12-2025" />
       <option name="ENV_FILES" value="" />
@@ -143,6 +158,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_cartitem.test_filterproduct" />
         <item itemvalue="Python tests.Python tests for test_lab001.test_firefox_browser" />
         <item itemvalue="Python tests.Python tests for test_lab001.test_lab002" />
         <item itemvalue="Python tests.Python tests for test_lab001.test_lab001" />

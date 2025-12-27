@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d8e00c-d224-402b-9727-48f0933ab22c" name="Changes" comment="update: 26-12-2025">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cartitem.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cartitem.py" afterDir="false" />
-    </list>
+    <list default="true" id="d0d8e00c-d224-402b-9727-48f0933ab22c" name="Changes" comment="update: 27-12-2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766830250976</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update: 27-12-2025">
+      <option name="closed" value="true" />
+      <created>1766842753262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766842753262</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +230,8 @@
     <MESSAGE value="update: 22-12-2025" />
     <MESSAGE value="update: 24-12-2025" />
     <MESSAGE value="update: 26-12-2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: 26-12-2025" />
+    <MESSAGE value="update: 27-12-2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: 27-12-2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -234,11 +240,6 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_newtabtest.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -17,4 +17,3 @@ def test_filterproduct(page:Page):
     nokiaprod.get_by_role("button").click()
     page.get_by_text("Checkout").click()
     expect(page.locator(".media-body")).to_have_count(2)
-    

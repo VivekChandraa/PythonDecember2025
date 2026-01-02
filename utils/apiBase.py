@@ -7,8 +7,8 @@ class APIUtil:
 
     def createOrder(self,playwright: Playwright):
         api_request_context = playwright.request.new_context("https://rahulshettyacademy.com")
-        api_request_context.post(url="/api/ecom/order/create-order",
+        response = api_request_context.post( url="/api/ecom/order/create-order",
                                  data=apipayload,
                                  headers={"Authorization": token,
                                      "Content-Type": "application/json"})
-        response.json()
+        print(response.json())

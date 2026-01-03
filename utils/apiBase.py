@@ -12,3 +12,5 @@ class APIUtil:
                                  headers={"Authorization": token,
                                      "Content-Type": "application/json"})
         print(response.json())
+
+def test_aaapi():
